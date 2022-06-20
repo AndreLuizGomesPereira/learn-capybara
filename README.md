@@ -12,4 +12,4 @@ Estudo de automação com Ruby + Capybara
 
 ### Configurando o Capybara e o Rspec
 - Abriremos o arquivo `spec_helper.rb`, adicionaremos o seguinte código:
->> 
+>> ![image](https://user-images.githubusercontent.com/61711374/174658412-67180310-5f0f-432d-b785-98b09c427649.png)
